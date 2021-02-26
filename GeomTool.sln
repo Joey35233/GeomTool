@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeomTool", "GeomTool.csproj", "{2B567848-D4A5-436C-8232-5232A3692C57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B567848-D4A5-436C-8232-5232A3692C57}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{2B567848-D4A5-436C-8232-5232A3692C57}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{2B567848-D4A5-436C-8232-5232A3692C57}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{2B567848-D4A5-436C-8232-5232A3692C57}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F22AFFD-31FF-4F84-8C84-CC62EDC0AED3}
+	EndGlobalSection
+EndGlobal
